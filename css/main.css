@@ -1,0 +1,25 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.new-contents-group {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.main{
+    min-width: 600px;
+    height: 700px;
+    margin: 15px;
+}
+.input-date-append{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.sort-icon{
+    float: right;
+}
+.delete-icon{
+    width: 40px;
+    margin: 0 auto;
+}
